@@ -8,8 +8,5 @@
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
-  },
-  "rules": {
-    "sort-imports":"warn"
   }
 }
